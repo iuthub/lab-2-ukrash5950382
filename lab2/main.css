@@ -1,0 +1,32 @@
+body
+{
+    background-color: #50554a;
+    color: white;
+}
+b{
+    color: yellow;
+}
+img
+{
+    width: 300px;
+}
+h1,h3
+{
+    color: #4f8281;
+    padding: 0 2px;
+    margin-bottom: 2rem;
+    font-family: SansSerif;
+}
+p
+{
+    font-family: "HoloLens MDL2 Assets";
+}
+ul
+{
+    font-family: "Bell MT" ;
+}
+a
+{
+    text-decoration: none;
+    color: red;
+}
